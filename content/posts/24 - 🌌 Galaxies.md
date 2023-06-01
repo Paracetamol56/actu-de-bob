@@ -1,6 +1,7 @@
 ---
 title: "24 - 🌌 Galaxies"
 date: 2023-06-01T12:00:00+02:00
+author: ["Bob", "Chocobo futé"]
 draft: false
 ---
 

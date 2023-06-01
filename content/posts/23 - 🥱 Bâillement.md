@@ -1,6 +1,7 @@
 ---
 title: "23 - 🥱 Bâillement"
 date: 2023-05-31T12:00:00+02:00
+author: ["Bob", "Chocobo futé"]
 draft: false
 ---
 
