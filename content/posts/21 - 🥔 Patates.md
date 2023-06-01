@@ -1,7 +1,7 @@
 ---
 title: "21 - 🥔 Patates"
 date: 2023-05-29T12:00:00+02:00
-draft: true
+draft: false
 ---
 
 **Et c'est reparti de bon matin pour une fois.

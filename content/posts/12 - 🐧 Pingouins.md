@@ -1,7 +1,7 @@
 ---
 title: "12 - 🐧 Pingouins"
 date: 2023-05-21T12:00:00+02:00
-draft: true
+draft: false
 ---
 
 **Après moult péripéties, voici l'actu de bob sur les pingouins. 🐧**

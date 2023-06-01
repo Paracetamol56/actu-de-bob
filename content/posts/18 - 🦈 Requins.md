@@ -1,7 +1,7 @@
 ---
 title: "18 - 🦈 Requins"
 date: 2023-05-26T12:00:00+02:00
-draft: true
+draft: false
 ---
 
 **Ça s'est joué à peu, mais la plèbe a choisi les requins pour aujourd'hui donc c'est parti 🦈**

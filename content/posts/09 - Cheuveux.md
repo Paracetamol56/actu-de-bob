@@ -1,7 +1,7 @@
 ---
 title: "09 - Cheuveux"
 date: 2023-05-18T12:00:00+02:00
-draft: true
+draft: false
 ---
 
 **Yo, deso pour hier, j'etait occupé. Je me ratrappe aujourd'hui et si j'ai la motive j'en fait une autre ce soir... Dans tout les cas, aujourd'hui, c'est l'heure des cheveux**

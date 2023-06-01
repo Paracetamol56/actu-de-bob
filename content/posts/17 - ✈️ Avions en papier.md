@@ -1,7 +1,7 @@
 ---
 title: "17 - ✈️ Avions en papier"
 date: 2023-05-26T12:00:00+02:00
-draft: true
+draft: false
 ---
 
 **Aller, aujourd'hui c'est le Paper Airplane Day, donc ça part sur les avions en papier ✈️**
