@@ -38,7 +38,7 @@ draft: false
 
 Auto promo de mon asso d'astronomie si vous voulez des photos de galaxies : https://get.google.com/albumarchive/117628331494077430769/album/AF1QipO9dCYTv_SahIT-Vw3x6rBCdSfJrmuu8YW_66-X
 
-**Les détails de Chocobo futé**
+## Les détails de Chocobo futé
 
 - Personne ne sais si star wars est vrai car on n'as pas encore trouvé de galaxie lointaine, très lointaine avec des formes de vie humanoïde
 

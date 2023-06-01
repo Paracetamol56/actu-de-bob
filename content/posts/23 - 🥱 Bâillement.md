@@ -24,7 +24,7 @@ draft: false
 
 - Les scientifiques ne sont pas tout à fait sûrs de la raison exacte pour laquelle nous bâillons, mais certaines théories suggèrent que cela peut aider à ré-oxygéner le cerveau, à réguler la pression dans l'oreille moyenne, à stimuler l'état d'éveil ou à exprimer socialement des signes de fatigue.
 
-**Nouveauté !!! désormais vous verrez les détails de chocobo futé apparaître en supplément**
+## Nouveauté !!! désormais vous verrez les détails de chocobo futé apparaître en supplément
 
 - bâiller permet aussi de regagner en concentration. Après avoir bâillé, on va instinctivement se focus  
   
