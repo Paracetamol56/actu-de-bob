@@ -1,7 +1,7 @@
 ---
 title: "02 - 🐳 Baleines bleues"
 date: 2023-05-11T12:00:00+02:00
-draft: true
+draft: false
 ---
 
 **Et c'est l'heure des stats sur les baleines bleues, un animal qui explose pas mal de records**
