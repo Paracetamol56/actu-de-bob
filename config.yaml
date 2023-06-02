@@ -1,7 +1,18 @@
 baseURL: https://actus-de-bob.fun
 languageCode: fr-FR
 title: Les actus de Bob
+paginate: 5
 theme: PaperMod
+
+sectionPagesMenu: main
+menu:
+  main:
+  - name: Archives
+    pageRef: /archives
+    weight: 10
+  - name: Recherche
+    pageRef: /search
+    weight: 10
 
 enableRobotsTXT: true
 enableEmoji: true
@@ -18,7 +29,6 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  ShowRssButtonInSectionTermList: true
 
   homeInfoParams:
     Title: Bienvue sur le site des actus de Bob 🧠
