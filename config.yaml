@@ -1,0 +1,45 @@
+baseURL: https://actus-de-bob.fun
+languageCode: fr-FR
+title: Les actus de Bob
+theme: PaperMod
+
+enableRobotsTXT: true
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  author: Bob
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+
+  homeInfoParams:
+    Title: Bienvue sur le site des actus de Bob 🧠
+    Content:
+      Tout a commencé un jour où j'ai partagé des fun fact sur les [vers de
+      terre](/posts/01-vers-de-terre/) avec mes amis sur Discord, et cela a
+      suscité un tel engouement que j'ai décidé d'écrire un article par jour sur
+      des sujets aléatoires. Ici, vous trouverez une collection croissante de
+      mes actus.
+
+  socialIcons:
+    - name: github
+      url: https://github.com/Paracetamol56/actu-de-bob
+
+  editPost:
+    URL: "https://github.com/Paracetamol56/actu-de-bob/tree/master/content"
+    Text: "Modifier l'article"
+    appendFilePath: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
