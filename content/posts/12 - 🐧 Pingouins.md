@@ -7,7 +7,7 @@ draft: false
 **Après moult péripéties, voici l'actu de bob sur les pingouins. 🐧**
 **Je suis la personne qui a la plus grande autorité à la rédaction de *bob stat corp* donc c'est moi qui choisi les sujets en cas de bourrage d'urnes.**
 
-https://metro.co.uk/wp-content/uploads/2020/04/PRI_150090803.jpg?quality=90&strip=all
+![](https://metro.co.uk/wp-content/uploads/2020/04/PRI_150090803.jpg?quality=90&strip=all)
 
 - Les Pingouin en français désigne l'espèce du Petit Pingouin (_Alca torda)_. Ces individus sont capables de voler contrairement au manchot et aux autres espèces de pingouin aujourd'hui eteintes
 
