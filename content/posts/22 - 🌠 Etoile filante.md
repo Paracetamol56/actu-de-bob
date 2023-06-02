@@ -6,7 +6,7 @@ draft: false
 
 **Yo l'équipe, bon mardi matin à vous. Et aujourd'hui ca part sur les étoiles filantes 🌠**
 
-![](https://cdn.mos.cms.futurecdn.net/ck6BKrzMHEy3suQzt5eTpC.jpg)
+![](/img/22.jpg)
 
 - Les étoiles filantes ne sont pas vraiment des étoiles.
 

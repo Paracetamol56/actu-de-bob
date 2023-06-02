@@ -6,7 +6,7 @@ draft: false
 
 **J'ai vraiment rien à dire donc on rentre dans le vive du sujet : les châteaux de sable 🪣**
 
-![](https://vifamagazine.ca/app/uploads/legacy/documents/images/chateau-2.jpg)
+![](/img/13.jpg)
 
 - Le record de hauteur de château de sable a été établi à 21.16m au Danemark en 2021.
 

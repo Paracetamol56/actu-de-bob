@@ -8,7 +8,7 @@ draft: false
 **Aujourd'hui ont va parler des ADN supérieurs 🧬.**
 **Peut être que vous aussi vous avez une de ces caractéristiques génétique de zinzin**
 
-![](https://www.ucsf.edu/sites/default/files/2020-10/illustration-dna-strand-disolving-iStock.jpg)
+![](/img/25.jpg)
 
 - La capacité à rouler sa langue en forme de tube est un trait génétique. Environ 50% de la population mondiale a cette capacité.    
   

@@ -6,7 +6,7 @@ draft: false
 
 **Aller, ce n'est pas trop tard pour la tant attendue actu de bob sur les renards 🦊**
 
-![](http://eliotkitty.e.l.pic.centerblog.net/o/d4363d67.jpg)
+![](/img/19.jpg)
 
 - Les renards sont connus pour leur agilité et leur capacité à sauter. Ils peuvent effectuer des sauts allant jusqu'à 2 mètres de haut et 4 à 5 mètres de long.
 

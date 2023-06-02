@@ -6,7 +6,7 @@ draft: false
 
 **Aujourd'hui, on va parler des pandas roux**
 
-![](https://geographical.co.uk/wp-content/uploads/panda1200-1.jpg)
+![](/img/03.jpg)
 
 - Les pandas roux ont été découverts et étudiés avant les pandas géants (on en reparlera dans une prochaine actu si vous voulez)
 
@@ -24,4 +24,4 @@ draft: false
 
 - La région d'origine du panda roux est la Chine. Mais pas d'inquiétude, ils n'essaieront pas de vous tuée et de vendre vos organes sur le marché noir pour la simple et bonne raison qu'il n'en n'ont rien à foutre de votre existence.
 
-![](https://res.cloudinary.com/roundglass/image/upload/w_1104,h_736,c_fill/q_auto:best,f_auto/v1634636545/rg/collective/media/rqvyssrkgr8xtj7bod7p.jpg)
+![](/img/03_1.jpg)

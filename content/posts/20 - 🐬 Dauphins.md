@@ -6,7 +6,7 @@ draft: false
 
 **Et c'est la réponse B : les dauphins 🐬**
 
-![](https://wallsdesk.com/wp-content/uploads/2018/02/Bottlenose-dolphins-Widescreen.jpg)
+![](/img/20.jpg)
 
 - La plupart des dauphins vivent dans la mer, j'espère que je ne vous apprends rien, mais certaines vivent dans l'amazone
 
@@ -34,7 +34,7 @@ draft: false
 
 Ne continuez pas si vous ne voulez pas être confronté à la triste réalité et si vous voulez continuer à aimer les dauphins parce qu'ils sont mignons, drôles et empathiques. 
 
-![](https://dtasdvdhudnn5.cloudfront.net/wp-content/uploads/2018/06/12093305/Dark-Dolphin.jpg)
+![](/img/22_1.jpg)
 
 - Les Torsiops ("dauphins à gros nez") ont une conception très particulière de la reproduction... Les mâles forment des équipes d'attaque (là, tu sens que ça dérape) et vont littéralement battre une femelle jusqu'à ce qu'elle accepte de se reproduire avec l'un d'eux. C'est précisément du viol.
 

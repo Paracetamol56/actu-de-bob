@@ -6,7 +6,7 @@ draft: false
 
 **Il y a beaucoup de phénomène naturel que je trouve beau, mais celui-là, il est quand même en S tier... Je me suis permis un truc un peu plus sérieux cette fois.**
 
-![](https://content.skyscnr.com/m/52f9b788693e51d9/original/GettyImages-479887428.jpg)
+![](/img/15.jpg)
 
 - Les aurores boréales sont créées par des particules chargées provenant du soleil, qui interagissent avec la magnétosphère de la Terre. Lorsque ces particules entrent en collision avec les molécules de l'atmosphère, elles produisent des émissions lumineuses colorées
 

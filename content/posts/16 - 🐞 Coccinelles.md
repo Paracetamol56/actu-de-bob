@@ -6,7 +6,7 @@ draft: false
 
 **Comme convenu, ça part sur les coccinelles pour aujourd'hui 🐞**
 
-![](https://lemagdesanimaux.ouest-france.fr/images/dossiers/2020-03/coccinelle-095902.jpg)
+![](/img/16.jpg)
 
 - Les coccinelles font partie de la famille des coléoptères
 

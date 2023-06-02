@@ -6,7 +6,7 @@ draft: false
 
 **Ça s'est joué à peu, mais la plèbe a choisi les requins pour aujourd'hui donc c'est parti 🦈**
 
-![](http://snowbrains.com/wp-content/uploads/2015/01/Seapics-GWS3.jpg)
+![](/img/18.jpg)
 
 - Les requins ont un sixième sens appelé l'électroréception, qui sert exactement à ce que vous pensez : détecter les champs électriques produits par les mouvements des proies
 

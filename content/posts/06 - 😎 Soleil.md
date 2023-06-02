@@ -6,7 +6,7 @@ draft: false
 
 **Aujourd'hui à la demande du @Mi-Grand, nous allons parlé du soleil ☀️ 😎**
 
-![](https://images-ext-2.discordapp.net/external/VS9nhcnQQmckbcv7j8u85Z5jc1UNpo361xpgKuecQW8/https/i.pinimg.com/originals/6f/f9/b8/6ff9b8bdee02612cd9da26e26abc1030.jpg?width=442&height=658)
+![](/img/06.jpg)
 
 - Le soleil est si grand qu'environ 1,3 million de Terres pourraient tenir à l'intérieur.
 

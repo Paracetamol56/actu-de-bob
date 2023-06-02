@@ -6,7 +6,7 @@ draft: false
 
 **🐼 Hello l'équipe, comme promis, l'actu de bob sur les pandas**
 
-![](https://wallsdesk.com/wp-content/uploads/2016/12/Panda-full-HD.jpg)
+![](/img/04.jpg)
 
 - Les pandas passent la majeure partie de leur journée à manger du bambou
 

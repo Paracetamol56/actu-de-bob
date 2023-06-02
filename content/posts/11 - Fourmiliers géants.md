@@ -6,7 +6,7 @@ draft: false
 
 **Lezzzz go ! Le fourmilier géant**
 
-![](https://images-ext-1.discordapp.net/external/5U08aB2uyZcmfkJUPxbXAZ2mruNconQZnF1p2rCfhOo/http/www.tropicarept.fr/wp-content/uploads/2015/04/pn_0061469hd_validpzp_1440x550.jpg)
+![](/img/11.jpg)
 
 - Le fourmilier géant (aussi appelé tamanoir) est long de 1,8 à 2,4 mètres ce qui en fait de loin le plus grand des fourmiliers
 

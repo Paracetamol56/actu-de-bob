@@ -6,7 +6,7 @@ draft: false
 
 **Hello tout le monde, j'espère que ça se passe dans l'espace pour vous. C'est votre rendez-vous quotidien avec les informations les plus intéressantes des interweb. Aujourd'hui gros sujet : les rêves ! Comme c'est un sujet que j'aime bien et que c'est cool, j'ai décidé de faire un truc un peu plus sérieux et de développé un peu plus que d'habitude, je ferrai pas ça souvent, mais j'espère que vous aimez bien un format comme ça de temps en temps.**
 
-![](https://www.academie-epione.com/wp-content/uploads/2021/01/inception_hypnose_academie_epione.png)
+![](/img/08.jpg)
 
 - Les femmes font en moyenne plus de cauchemar que les hommes
 

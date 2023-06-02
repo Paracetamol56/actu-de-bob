@@ -7,7 +7,7 @@ draft: false
 
 **Bon bah c'est encore partie pour un sujet d'astronomie, j'aime bien ca 🌌**
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Andromeda_Galaxy_560mm_FL.jpg/1280px-Andromeda_Galaxy_560mm_FL.jpg)
+![](/img/24.jpg)
 
 - Il y a environ 100 milliards de galaxies dans l'univers observable. Chacune de ces galaxies peut contenir des milliards d'étoiles
 

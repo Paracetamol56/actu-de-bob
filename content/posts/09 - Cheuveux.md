@@ -6,7 +6,7 @@ draft: false
 
 **Yo, deso pour hier, j'etait occupé. Je me ratrappe aujourd'hui et si j'ai la motive j'en fait une autre ce soir... Dans tout les cas, aujourd'hui, c'est l'heure des cheveux**
 
-![](https://pbs.twimg.com/media/DkyGt8PW4AAmkU0.jpg)
+![](/img/09.jpg)
 
 - Les cheveux sont composés principalement de kératine, une protéine fibreuse présente dans notre corps. Comme dans les ongles par exemple.
 

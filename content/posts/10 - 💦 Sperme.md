@@ -6,7 +6,7 @@ draft: false
 
 **La deuxième actu du jour pour rattraper la pause d'hier. Cette fois-ci, un sujet passionnant : le cum**
 
-![](http://blog.primalmuscle.com/wp-content/uploads/2013/09/iStock_000013802628Large.jpg)
+![](/img/10.jpg)
 
 - Le pipi n'est pas mélangé au sperme dans les testicules
 

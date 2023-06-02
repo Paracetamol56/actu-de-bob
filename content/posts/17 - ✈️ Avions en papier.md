@@ -6,7 +6,7 @@ draft: false
 
 **Aller, aujourd'hui c'est le Paper Airplane Day, donc ça part sur les avions en papier ✈️**
 
-![](https://cdn.thecoolist.com/wp-content/uploads/2016/07/F-15-Eagle-paper-airplane-345x200.jpg)
+![](/img/17.jpg)
 
 - Les avions en papier sont apparus il y a des siècles et ont évolué à partir des origamis traditionnels japonais.
 

@@ -6,7 +6,7 @@ draft: false
 
 **Aujourd'hui : les caribous**
 
-![](https://fthmb.tqn.com/qyghj2M9c7URMNomzZ88Akueo6o=/2250x1500/filters:fill(auto,1)/173985454-56a008c05f9b58eba4ae9019.jpg)
+![](/img/05.jpg)
 
 - Les caribous sont également connus sous le nom de rennes en Europe. Cependant, ils demeurent incapables de voler.
 

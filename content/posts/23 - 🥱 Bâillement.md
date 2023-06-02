@@ -7,7 +7,7 @@ draft: false
 
 **Okay, c'est parti pour le bâillement 🥱. Petite exclu aujourd'hui, j'ai proposé à une personne de mon entourage d'ajouter des facts pour avoir plusieurs styles dans les actus.**
 
-![](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2020%2F07%2F20%2Fyawning-cat-1082062650-2000.jpg)
+![](/img/23.jpg)
 
 - Les bâillements sont contagieux. Lorsque vous voyez quelqu'un bâiller, cela peut déclencher le besoin de bâiller chez vous. Cela est même observé chez certaines espèces animales, y compris les chiens, les chats et les singes.
 

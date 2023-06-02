@@ -7,7 +7,7 @@ draft: false
 **Et c'est reparti de bon matin pour une fois.
 Comme disait un grand homme oublié : "My life is potato" 🥔**
 
-![](http://static.tumblr.com/c06d8e0928395746a63b9c5d3cb1ce66/sl9iajp/gxFmqk38z/tumblr_static_potato-equality.jpg)
+![](/img/21.jpg)
 
 - Au cas où vous ne le saviez pas, la pomme de terre vient du continent sud américain. Elle a été cultivée en premier par les incas.
 

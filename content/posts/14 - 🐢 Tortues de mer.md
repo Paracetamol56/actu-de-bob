@@ -7,7 +7,7 @@ draft: false
 **Bonsoir à tous, j'ai enfin l'occasion de m'adresser à toute la team pour une fois.**
 **Aujourd'hui à l'occasion de la journée international des tortues et du vote démocratique d'hier, nous allons parler des tortues de mer 🐢**
 
-![](https://i1.wp.com/nypost.com/wp-content/uploads/sites/2/2018/04/shutterstock_337861145.jpg)
+![](/img/14.jpg)
 
 - Sur les sept espèces de tortues marines, six sont actuellement considérées comme en danger d'extinction selon l'UICN
 
