@@ -31,7 +31,7 @@ params:
   ShowCodeCopyButtons: true
 
   homeInfoParams:
-    Title: Bienvue sur le site des actus de Bob 🧠
+    Title: Bienvenue sur le site des actus de Bob 🧠
     Content:
       Tout a commencé un jour où j'ai partagé des fun fact sur les [vers de
       terre](/posts/01-vers-de-terre/) avec mes amis sur Discord, et cela a
