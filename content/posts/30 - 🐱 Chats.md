@@ -13,7 +13,7 @@ draft: false
 
 - Les chats ont un système de communication complexe. Ils utilisent non seulement des vocalisations telles que les miaulements, les ronronnements et les grognements, mais aussi des signaux corporels tels que la posture, les mouvements de la queue et des oreilles pour communiquer avec les autres chats et les humains
 
-- D'ailleurs, même si le visage d'un chat peut sembler peu expressif, les muscles responsables des expressions sont extrêmement actif. Dans l'ordre, sur l'échelle de l'expressivité, on retrouve contre toute attente : le chimpanzé < le chien < le cheval <<< le chat
+- D'ailleurs, même si le visage d'un chat peut sembler peu expressif, les muscles responsables des expressions sont extrêmement actif. Dans l'ordre, sur l'échelle de l'expressivité, on retrouve contre toute attente : le chimpanzé < le chien < le cheval < le chat
 
 - Contrairement aux chiens, les chats ne possèdent pas de récepteurs de goût spécifiques pour le sucré. Ils n'ont pas de besoin biologique de consommer des aliments sucrés, tant pis pour eux
 
@@ -35,15 +35,15 @@ draft: false
 
 - Contrairement aux chiens qui sont souvent très proches de leur maitre, les chats n'en n'ont pas grand-chose à faire de votre existence, si vous mourrez chez vous, il y a même des chances pour qu'il vous mange par manque de croquettes.
 
-- Il est déconseillé d'acheter des arbres à chat, car ça coute super cher et ils préfèrent jouer avec l'emballage de ce dernier
+- Il est déconseillé d'acheter des arbres à chat, car ça coûte super cher et ils préfèrent jouer avec l'emballage de ce dernier
 
 - Les chats ont 244 os et 30 dents
 
-- Il est avéré que le fait de posséder un chat d'imine le risque de crise cardiaque, mais augmente de risque d'urine sur votre lit, dans la vie il faut faire des choix.
+- Il est avéré que le fait de posséder un chat diminue le risque de crise cardiaque, mais augmente de risque d'urine sur votre lit, dans la vie il faut faire des choix.
 
 - Si lorsque vous caressez un chat, il vient frotter ses joues contre vous, cela sert en fait à déposer une substance odorante qui lui sert de marqueur de territoire. Il vous considère donc comme une partie de son territoire. Je ne sais pas comment le prendre, mais je suppose que c'est un honneur.
 
-- Les agences spatiales du monde des années 60 ont toutes envoyer des animaux dans l'espace avant les humains. Le programme spatiale français à envoyer la première chatte dans l'espace : Felicette
+- Les agences spatiales du monde des années 60 ont toutes envoyé des animaux dans l'espace avant les humains. Le programme spatiale français à envoyer la première chatte dans l'espace : Felicette
 
 - La mascotte du langage Scratch est un chat
 
