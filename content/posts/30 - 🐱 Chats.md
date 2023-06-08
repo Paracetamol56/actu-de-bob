@@ -5,7 +5,7 @@ author: ["Bob", "Chocobo futé"]
 draft: false
 ---
 
-**Bon est bien, je crois qu'on a jamais eu autant de réactions sur un sujet. J’espère que vous êtes prêt pour cette actu sur les chats. D’ailleurs, pour illustrer cette actu, je vous présente ma chatte Iris 🐱 :****
+**Bon est bien, je crois qu'on a jamais eu autant de réactions sur un sujet. J’espère que vous êtes prêt pour cette actu sur les chats. D’ailleurs, pour illustrer cette actu, je vous présente ma chatte Iris 🐱 :**
 
 ![](/img/30.jpg)
 
