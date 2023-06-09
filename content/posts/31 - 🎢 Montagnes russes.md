@@ -1,5 +1,5 @@
 ---
-title: "31 - 🎢 Montagne russes"
+title: "31 - 🎢 Montagnes russes"
 date: 2023-06-08T12:00:00+02:00
 author: ["Bob", "Papa Bob", "Maman Bob"]
 draft: false
