@@ -32,3 +32,5 @@ draft: false
 ## Les détails de Chocobo futé
 
 - Ça c'est ma France et pourtant le pain de vient pas de nous, il y aurait des traces datant de la préhistoire (avant même l'invention de l'agriculture)
+
+- Pour ceux qui ne le savent pas n'hésitez pas à suivre ce tuto il peut vous êtres utile : [https://youtu.be/5jQCw_7o87Q](https://youtu.be/5jQCw_7o87Q "https://youtu.be/5jQCw_7o87Q")
