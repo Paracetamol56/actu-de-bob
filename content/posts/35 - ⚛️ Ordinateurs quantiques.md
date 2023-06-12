@@ -1,7 +1,7 @@
 ---
 title: "35 - ⚛️ Ordinateurs quantiques"
 date: 2023-06-12T12:00:00+02:00
-author: ["Bob", "Chocobo futé"]
+author: ["Bob"]
 draft: false
 ---
 
