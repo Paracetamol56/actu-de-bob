@@ -43,7 +43,3 @@ operation CreateEntangledPair () : Unit {
     Message($"Result: {result}");
 }
 ```
-
-## Les détails de Chocobo futé
-
-![](/img/35_1.jpg)
