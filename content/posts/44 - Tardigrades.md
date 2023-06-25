@@ -1,7 +1,7 @@
 ---
 title: "44 - Tardigrades"
 date: 2023-06-21T12:00:00+02:00
-author: ["Bob", ]
+author: ["Bob"]
 draft: false
 ---
 

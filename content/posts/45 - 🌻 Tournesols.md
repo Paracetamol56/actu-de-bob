@@ -1,7 +1,7 @@
 ---
 title: "45 - 🌻 Tournesols"
 date: 2023-06-22T12:00:00+02:00
-author: ["Bob", Chocobo futé, Lord Dolphin]
+author: ["Bob", "Chocobo futé", "Lord Dolphin"]
 draft: false
 ---
 
