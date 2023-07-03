@@ -1,7 +1,7 @@
 baseURL: https://actus-de-bob.fun
 languageCode: fr-FR
 title: Les actus de Bob
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 sectionPagesMenu: main

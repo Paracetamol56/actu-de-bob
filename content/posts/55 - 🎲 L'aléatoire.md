@@ -1,7 +1,7 @@
 ---
 title: "55 - 🎲 L'aléatoire"
 date: 2023-07-02T12:00:00+02:00
-author: ["Bob"]
+author: ["Bob", "Chocobo futé"]
 draft: false
 ---
 
