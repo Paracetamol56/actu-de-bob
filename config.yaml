@@ -49,6 +49,17 @@ params:
     Text: "Modifier l'article"
     appendFilePath: true
 
+  fuseOpts:
+    isCaseSensitive: false
+    minMatchCharLength: 2
+    shouldSort: true
+    location: 0
+    threshold: 0.1
+    distance: 50
+
+    keys: ["title", "content"]
+
+
 outputs:
   home:
     - HTML
