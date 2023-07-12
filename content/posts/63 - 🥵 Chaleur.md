@@ -1,7 +1,7 @@
 ---
 title: "63 - 🥵 Chaleur"
 date: 2023-07-10T12:00:00+02:00
-author: ["Bob"]
+author: ["Bob", "Chocobo futé"]
 draft: false
 ---
 
@@ -33,9 +33,13 @@ En d'autre terme, il est très facile de créer de la chaleur, mais la détruire
 
 L'humain, comme les mammifères et les oiseaux, est un homéotherme endotherme (animal à sang chaud qui maintient une température supérieure à celle de son milieu). Sa température interne nominale est de 37°C.
 
-Si elle descend en dessous de 35°C, on parle d'hyperthermie légère, qui peut entrainer des phases d'amnésie, d'apathie, ou de difficulté d'élocution, des troubles du jugement et d'adaptation à la situation.
-En dessous de 28°C, on parle d'hyperthermie sévère, les symptômes sont un coma avec le risque d'un arrêt cardiaque, de la fibrillation, de l'apnée et bien souvent la mort si l'individu n'est pas réchauffé rapidement.
+Si elle descend en dessous de 35°C, on parle d'hypothermie légère, qui peut entraîner des phases d'amnésie, d'apathie, ou de difficulté d'élocution, des troubles du jugement et d'adaptation à la situation.
+En dessous de 28°C, on parle d'hypothermie sévère, les symptômes sont un coma avec le risque d'un arrêt cardiaque, de la fibrillation, de l'apnée et bien souvent la mort si l'individu n'est pas réchauffé rapidement.
 
 À l'inverse, si l'environnement extérieur est trop chaud pour que les systèmes d'autorégulation du corps évacuent toute la chaleur, on parle d'hyperthermie.
 Cela peut survenir lors d'une exposition trop violente au soleil (l'insolation), d'un effort trop intense ou simplement de l'environnement.
-Les symptômes sont généralement des étourdissements, des nausées, des maux de tête et, de la somnolence, la perte de couleur dans le champ de vision, voir blanc et dans des cas extrêmes l'hyperthermie peut entrainer la mort.
+Les symptômes sont généralement des étourdissements, des nausées, des maux de tête et, de la somnolence, la perte de couleur dans le champ de vision, voir blanc et dans des cas extrêmes l'hyperthermie peut entraîner la mort.
+
+## Les détails de Chocobo futé
+
+- La chaleur est utilisé comme moyen de contraception pour les hommes, et oui il vous suffis de garder les roubignoles bien collé à votre corps pour qu'elle soit à plus de 33°C et ainsi empêcher la création de spermatozoïdes (c'est d'ailleurs pour ça qu'elle sont à l'extérieur du corps).
