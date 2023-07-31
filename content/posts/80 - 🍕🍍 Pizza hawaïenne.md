@@ -1,7 +1,7 @@
 ---
 title: "80 - 🍕🍍 Pizza hawaïenne"
 date: 2023-07-27T12:00:00+02:00
-author: ["Bob"]
+author: ["Bob", "Chocobo futé"]
 draft: false
 ---
 
@@ -49,3 +49,7 @@ Instructions :
 	- Garnissez éventuellement de feuilles de basilic frais pour ajouter une touche d'arôme et de couleur.
 
 Bon appétit !
+
+## Les détails de Chocobo futé
+
+- NB: pour les cannibales, non il n'y a pas d'hawaïenne dans la pizza.
