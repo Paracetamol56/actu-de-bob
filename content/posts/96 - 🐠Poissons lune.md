@@ -9,7 +9,11 @@ draft: false
 
 ![](/img/96.jpg)
 
-- Les poissons lune sont appelés sun fish en anglais ("poisson soleil") - Ils ne peuvent pas fermer leur bouche. - Les poissons lune sont nuls, ils ont une mobilité très réduite du fait de la croissance inexistante de leur nageoire arrière (et plus généralement de l'arrière de leur corps)
+- Les poissons lune sont appelés sun fish en anglais ("poisson soleil")
+
+- Ils ne peuvent pas fermer leur bouche.
+
+- Les poissons lune sont nuls, ils ont une mobilité très réduite du fait de la croissance inexistante de leur nageoire arrière (et plus généralement de l'arrière de leur corps)
 
 - Il n'est pas rare de les voir flotter à la surface des mers et des océans, c'est tout simplement parce qu'ils sont coincés et n'ont d'autre choix que de se laisser flotter
 
@@ -24,3 +28,13 @@ draft: false
 - La vitesse de pointe d'un poisson lune est 3 km/h  
 
 - Ce poisson est la peuvent vivante que parfois, être bizarre est une bonne solution pour survivre en ce bas monde.
+
+## Les détails de Chocobo futé
+
+- Le poisson lune est aussi appelé la Lune de mer ou Môle (oui comme la montagne de haute Savoie situé ici 46.1067412, 6.4544540 )
+
+- C'est un poisson rare, se trouvant dans la mer et pouvant être vendu pour 4 000 clochettes.
+
+- Et toujours les tant aimé jeux de mots :
+  - New Leaf : "Tu as pris une lune de mer ! Elle n'a pas réussi à s'éclipser !"
+	- New Horizons : "Tu as pris une lune de mer ! Tu peux mettre les choses au clair !"
