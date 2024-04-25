@@ -1,5 +1,5 @@
 ---
-title: "96 - 🐠Poissons lune"
+title: "96 - 🐠 Poissons lune"
 date: 2023-12-26T12:00:00+02:00
 author: ["Bob"]
 draft: false

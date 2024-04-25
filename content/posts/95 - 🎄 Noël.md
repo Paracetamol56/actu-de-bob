@@ -7,7 +7,7 @@ draft: false
 
 **Yo l'équipe, comment ça va ?
 Petite actu de Noël en guise de cadeau que je fais à l'humanité.
-Joyeux Noël, une pensée à celles et ceux qui sont seuls et bon lundi février à ceux qui ne fêtent pas Noël, je ne vous oublie pas.**
+Joyeux Noël, une pensée à celles et ceux qui sont seuls et bon lundi ferrier à ceux qui ne fêtent pas Noël, je ne vous oublie pas.**
 
 ![](/img/95.jpg)
 
