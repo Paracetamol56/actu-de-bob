@@ -1,7 +1,7 @@
 ---
 title: "97 - 🐚 Balanes"
 date: 2024-04-25T12:00:00+02:00
-author: ["Bob", "Bobette"]
+author: ["Bob", "mon amoureuse"]
 draft: false
 ---
 
