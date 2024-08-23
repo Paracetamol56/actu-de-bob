@@ -1,7 +1,7 @@
 ---
 title: "94 - 🍔 Gras"
 date: 2023-08-10T12:00:00+02:00
-author: ["Bob"]
+author: ["Bob", "Chocobo futé"]
 draft: false
 ---
 

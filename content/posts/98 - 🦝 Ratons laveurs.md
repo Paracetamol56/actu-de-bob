@@ -1,7 +1,7 @@
 ---
 title: "98 - 🦝 Ratons laveurs"
 date: 2024-08-22T12:00:00+02:00
-author: ["Bob"]
+author: ["Bob", "Chocobo futé"]
 draft: false
 ---
 
