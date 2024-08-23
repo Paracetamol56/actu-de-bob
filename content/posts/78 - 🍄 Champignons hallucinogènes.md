@@ -27,7 +27,8 @@ draft: false
 
 ## Q&A
 
-**Est-ce que c'est dangereux tout ça ?**  
+**Est-ce que c'est dangereux tout ça ?**
+
 Les champignons hallucinogènes sont généralement considérés comme non toxiques et ne provoquent pas de dépendance physique. Cependant, la consommation de champignons hallucinogènes peut entraîner des expériences indésirables telles que la paranoïa, des comportements à risque (qui peuvent entraîner des blessures) et même un faux sentiment de soi (penser que l'on est quelque chose ou quelqu'un que l'on n'est pas). C'est ce qu'on appelle un bad trip. Si une personne vit un bad trip, elle peut avoir des flashbacks qui se poursuivent pendant des jours, des mois ou des années.  
   
 Une personne peut ressentir des effets secondaires indésirables ou un bad trip si elle a un problème de santé mentale préexistant, si elle a consommé de l'alcool ou d'autres drogues ou encore si elle a un problème cardiaque.  

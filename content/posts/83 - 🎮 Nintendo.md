@@ -25,6 +25,7 @@ draft: false
 
 ## Q&A
 
-**Qui est la mère de Bowser Jr ?**  
+**Qui est la mère de Bowser Jr ?**
+
 L'un des mystères les plus anciens de l'univers Mario concerne l'identité de la mère de Bowser Jr. Ce mystère est si important qu'il a joué un rôle central dans l'intrigue de Super Mario Sunshine, où Bowser convainc Bowser Jr. que Peach est sa mère. Il a été révélé que Peach n'était pas la mère de Bowser Jr., mais la question est restée en suspens et n'a pas été résolue depuis.  
 Dans la vidéo "Mario Myths with Mr. Miyamoto" (https://www.youtube.com/watch?v=uu2DnTd3dEo&t=41s), le créateur de Mario, Shigeru Miyamoto, s'est vu poser la question ce à quoi il a répondu en se montrant du doigt. Voilà, vous avez votre réponse.

@@ -24,6 +24,7 @@ draft: false
 ## Q&A
 
 **C'est quoi le chaos ?**
+
 Beaucoup ont une vision déterministe du monde et pensent que l'aléatoire n'existe pas et que l'on devrait plutôt parler de chaos. En mathématiques, le chaos fait référence à la sensibilité extrême aux conditions initiales dans les systèmes dynamiques non linéaires. De petites variations initiales peuvent conduire à des résultats complètement différents à long terme. Des exemples célèbres sont le double pendule ou encore l'attracteur de Lorenz.
 
 ## Les détails de Chocobo futé

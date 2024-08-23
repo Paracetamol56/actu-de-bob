@@ -29,7 +29,8 @@ draft: false
 
 ## Q&A
 
-**Quelle est la glace la plus chère du monde ?**  
+**Quelle est la glace la plus chère du monde ?**
+
 Le dessert glacé, appelé byakuya ("nuit blanche" en japonais) se vend actuellement 880 000 yens (6 380 dollars) pour une portion, ce qui en fait officiellement la crème glacée la plus chère du monde, selon le Guinness World Records. Elle contient de la truffe blanche, une feuille d'or comestible, de deux types de fromage et de "Sakekasu", un ingrédient pâteux dérivé du processus de fabrication du saké.
 
 ## Les détails de Chocobo futé

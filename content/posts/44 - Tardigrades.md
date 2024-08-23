@@ -29,7 +29,8 @@ draft: false
 
 ## Q&A
 
-**Comment éradiquer les tardigrade ?**  
+**Comment éradiquer les tardigrade ?**
+
 Alors déjà, c'est pas cool parce que je suis sur que vous n'aviez meme pas remarquer leur existance tellement ils sont chill.
 Et ensuite, selon une étude, les tardigrades, pourraient être éliminés uniquement si les océans de la Terre étaient bouillis. Les chercheurs ont examiné les conséquences de catastrophes telles que l'impact d'un astéroïde massif, la supernova d'une grande étoile ou des radiations gamma frappant la Terre. Cependant, la probabilité de ces événements est extrêmement faible, avec peu d'astéroïdes de la taille requise et aucune menace imminente.
 

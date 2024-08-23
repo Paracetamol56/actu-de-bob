@@ -25,5 +25,6 @@ draft: false
 
 ## Q&A
 
-**Les balanes servent elles à quelque chose ?**  
+**Les balanes servent elles à quelque chose ?**
+
 Malgré leur apparence insignifiante, les balanes occupent une place essentielle dans les écosystèmes marins en agissant à la fois comme des filtreurs et des fournisseurs d'habitat. En tant que filtreurs, elles se nourrissent en extrayant de minuscules particules alimentaires, comme le plancton, de l'eau de mer, ce qui contribue à maintenir la qualité de l'eau en éliminant les particules en suspension. De plus, leurs coquilles offrent un habitat propice à divers autres organismes marins, notamment de petits poissons, des crevettes et d'autres crustacés.

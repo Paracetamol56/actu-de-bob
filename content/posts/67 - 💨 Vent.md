@@ -36,7 +36,8 @@ draft: false
 
 ## Q&A
 
-**Comment exploiter le vent ?**  
+**Comment exploiter le vent ?**
+
 L'énergie du vent est appelée énergie éolienne. L'énergie éolienne est convertie en électricité à l'aide de turbines éoliennes. Ces turbines captent la force du vent et font tourner leurs pâles, ce qui génère de l'énergie mécanique. Cette énergie mécanique est ensuite convertie en électricité grâce à un générateur. L'énergie éolienne est une source d'énergie renouvelable et propre. Environ 4% de l’électricité mondiale est de source éolienne.
 
 ## Les détails de Chocobo futé

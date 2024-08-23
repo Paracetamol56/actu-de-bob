@@ -30,6 +30,7 @@ draft: false
 ## Q&A
 
 **Les poulpes ne voient pas les couleurs, alors comment font-elles pour changer de couleur en 0.3 seconde ?**
+
 La peau des poulpes contient de petites cellules appelées chromatophores, qui sont responsables de leur capacité à changer de couleur. Les chromatophores contiennent des pigments de différentes couleurs, tels que le noir, le brun, le rouge et le jaune. En modifiant la taille et la forme des chromatophores, les poulpes peuvent manipuler la réflexion de la lumière sur leur peau et créer ainsi différentes couleurs et motifs.
 
 Lorsqu'un poulpe souhaite changer de couleur, il envoie des signaux nerveux à ses chromatophores pour les activer. Ces signaux entraînent la contraction ou l'expansion des muscles entourant les chromatophores, ce qui permet de modifier rapidement leur taille et leur apparence. En ajustant la densité et la disposition des chromatophores, les poulpes peuvent créer une grande variété de motifs et de couleurs en quelques fractions de seconde.

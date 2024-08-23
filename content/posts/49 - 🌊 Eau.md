@@ -45,4 +45,5 @@ draft: false
 ## Q&A
 
 **Jusqu'à quelle profondeur pouvons-nous plonger ?**
+
 Les humains ont inventé plusieurs méthodes pour plonger toujours plus profond. Le record de profondeur en apnée (free dive) est de 214 mètres (Herbert Nitsch le 14 juin 2007). En plongée atmosphérique, on se heurte très vite au problème de l'ivresse des profondeurs : Quand l'azote de l'air se mélange au sang et vous rend complètement bourré. Pour palier a ce problème, on utilise un mélange hélium + oxygène, l'hélium ne présentant aucun risque pour l'organisme. Le record de plongée en scaphandre à l'hélium est de 675m (Théo Mavrostomos le 20 novembre 1992).

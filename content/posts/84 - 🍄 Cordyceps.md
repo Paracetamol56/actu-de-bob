@@ -27,5 +27,6 @@ draft: false
 
 ## Q&A
 
-**Les cordyceps peuvent t ils s'attaquer aux humains ?**  
+**Les cordyceps peuvent t ils s'attaquer aux humains ?**
+
 Rassurez vous, le consensus parmi les scientifiques semble être que ce que le cordyceps fait aux humains dans The Last of Us est quelque chose qui prendrait des millions d'années à évoluer. Et le stress environnementale du au changement climatique qui est décrit dans le jeu vidéo n'est clairement pas suffisant pour faire passer le parasite des insectes au mammifères.

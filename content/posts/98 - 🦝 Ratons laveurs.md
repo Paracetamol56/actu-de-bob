@@ -34,6 +34,7 @@ draft: false
 ## Q&A
 
 **Pourquoi les ratons laveurs sont-ils si mignons ?**
+
 L'apparence des ratons laveurs est indéniablement attachante.  
 Un corps de peluche, des petites pattes très agiles, un comportement curieux.
 Mais l'habit ne fait pas le moine, les ratons laveurs restent des animaux sauvages. Ils peuvent être porteurs de maladies et peuvent devenir agressifs s'ils se sentent menacés. Il est donc préférable de les observer de loin et de ne pas chercher à les approcher ou à les nourrir.

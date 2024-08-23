@@ -50,6 +50,7 @@ draft: false
 ## Q&A
 
 **Les chats sont-ils liquides ?**
+
 L'étude lauréate du prix Ig Nobel en 2017 portait sur la question de savoir si les chats étaient liquides. En effet, l'une des propriétés d'un liquide est d'occuper tout l'espace disponible si on lui laisse suffisamment de temps. Et beaucoup d'image sur internet montre que les chats dans un contenant occupent tout l'espace. Cependant, les conclusions n'ont pas apporté de preuve scientifique concluante pour étayer l'idée que les chats sont effectivement des liquides. Les chercheurs ont plutôt constaté que les chats ont une capacité remarquable à s'adapter à différentes formes et à se faufiler dans des espaces étroits en raison de leur flexibilité et de leur agilité.
 
 ## Les détails de Chocobo futé

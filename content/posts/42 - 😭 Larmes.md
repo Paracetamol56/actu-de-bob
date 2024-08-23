@@ -28,7 +28,8 @@ draft: false
 
 ## Q&A
 
-**Il y a quoi dans les larmes ?** 
+**Il y a quoi dans les larmes ?**
+
 Les larmes sont principalement composées d'eau, mais elles contiennent également des sels, des lipides, des enzymes et des anticorps. Les composants exacts des larmes peuvent varier en fonction de la raison pour laquelle elles sont produites.
 
 ## Les détails de Chocobo futé

@@ -31,7 +31,8 @@ draft: false
 
 ## Q&A
 
-**Quel sont les alphabets les plus utilisés dans le monde ?**  
+**Quel sont les alphabets les plus utilisés dans le monde ?**
+
 Par ordre décroissant, les alphabets les plus utilisés dans le monde sont :
 
 - **l'alphabet latin**

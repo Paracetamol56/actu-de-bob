@@ -25,7 +25,8 @@ draft: false
 
 ## Q&A
 
-**Pourquoi les piranhas ont cette réputation ?**  
+**Pourquoi les piranhas ont cette réputation ?**
+
 La réputation de férocité et de danger du Piranha est due à Théodore Roosevelt qui participait à une expédition de chasse en Amérique du Sud (en 1913). Dans son livre "Through the Brazilian Wilderness", il raconte avoir eu affaire à plusieurs reprises à des piranhas. Il les qualifie de "créatures féroces... un poisson fou de sang" et, dans un passage particulièrement intéressant, les décrit comme "l'incarnation de la férocité diabolique". L'affirmation selon laquelle les Piranhas "dévorent parfois les vaches vivantes si les malheureuses bêtes s'aventurent dans l'eau" est également tirée de ce livre.
 
 **Les détails de Chocobo futé**

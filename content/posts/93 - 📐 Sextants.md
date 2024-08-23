@@ -23,5 +23,6 @@ draft: false
 
 ## Q&A
 
-**À quoi sert vraiment un sextant (la vérité que l'on vous cache) ?** 
+**À quoi sert vraiment un sextant (la vérité que l'on vous cache) ?**
+
 Ça sert à rien, les GPS sont précis à quelques dizaines de centimètres.

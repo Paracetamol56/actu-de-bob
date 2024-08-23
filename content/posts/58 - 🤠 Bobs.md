@@ -28,4 +28,5 @@ draft: false
 ## Q&A
 
 **Pourquoi Bob est de diminutif de Robert ?**
+
 Parce que le début du mot serait "Rob" mais "Bob" est plus facile à dire apparemment. C'est pour les mêmes raisons que Bill est le diminutif de William et Dick le diminutif de Richard. Non en fait, je ne sais pas pour ce dernier, je crois que ça sort vraiment de nulle part. D'ailleurs, ils auraient pu trouver mieux...

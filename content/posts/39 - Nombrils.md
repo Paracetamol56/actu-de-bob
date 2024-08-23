@@ -32,6 +32,7 @@ draft: false
 ## Q&A
 
 **Ok, mais à quoi ça sert concrètement un nombril dans la vie ?**
+
 Si on considère que le temps de vie comme la durée séparant votre naissance de votre mort, votre nombril ne sert absolument à rien. Par contre, on pourrait dire que c'est votre première bouche pendant la phase de gestation.
 
 ## Les détails du mi-grand

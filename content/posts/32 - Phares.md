@@ -26,4 +26,5 @@ draft: false
 ## Q&A
 
 **Pourquoi les phares s'appellent des phares ?**
+
 Le premier phare entièrement en pierre est souvent considéré comme le phare d'Alexandrie en Égypte, construit vers 280 av. J.-C. Il était considéré à l'époque comme la septième des sept merveilles du monde. Aujourd'hui écroulé, il se trouvait sur l'île de Pharos, ce qui a donné le nom "phare" en français.

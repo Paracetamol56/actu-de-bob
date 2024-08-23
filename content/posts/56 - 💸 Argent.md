@@ -30,7 +30,8 @@ draft: false
 
 ## Q&A
 
-**Combien y a-t-il d'argent dans le monde ?**  
+**Combien y a-t-il d'argent dans le monde ?**
+
 L'estimation précise de la quantité d'argent dans le monde varie en fonction de différents facteurs, tels que les méthodes de mesure et les définitions spécifiques utilisées. Cependant, on peut donner un aperçu général des volumes monétaires M0, M1, M2 et M3.
 
 M0 également connu sous le nom de base monétaire ou monnaie centrale, représente la forme la plus liquide de l'argent en circulation. Il comprend les pièces et billets en circulation, ainsi que les dépôts des banques commerciales auprès de la banque centrale. L'estimation de la base monétaire mondiale en 2021 était d'environ 5,5 billions d'USD.

@@ -29,5 +29,6 @@ draft: false
 
 ## Q&A
 
-**Comment ça fonctionne ?**  
+**Comment ça fonctionne ?**
+
 Un accélérateur de particules fonctionne en utilisant des champs électromagnétiques pour accélérer des particules subatomiques à des vitesses très élevées. Les particules sont d'abord injectées dans un tube sous vide, appelé « cavité », où des champs électromagnétiques alternatifs les propulsent. Les particules sont ensuite guidées à travers une série de cavités de plus en plus grandes pour augmenter leur énergie cinétique. Pour maintenir la trajectoire des particules, des aimants puissants sont utilisés pour générer un champ magnétique focalisant. Les particules accélérées peuvent ensuite entrer en collision avec d'autres particules ou cibles fixes pour permettre l'étude de la structure de la matière à l'échelle subatomique.

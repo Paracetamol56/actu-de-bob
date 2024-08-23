@@ -25,7 +25,8 @@ draft: false
 
 ## Q&A
 
-**Il y a quoi dans le pollen ?**  
+**Il y a quoi dans le pollen ?**
+
 Un grain de pollen est composé de plusieurs parties distinctes :
 1. Exine : C'est la couche externe du grain de pollen, souvent constituée de sporopollénine, une substance très résistante. L'exine peut présenter des motifs et des textures variés, ce qui permet d'identifier différentes espèces de plantes à partir de l'observation de leur pollen.
 

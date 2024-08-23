@@ -21,5 +21,6 @@ draft: false
 
 ## Q&A
 
-**Combien faut il de disquette pour installer la version officiel de Windows NT 3.1 ?**  
+**Combien faut il de disquette pour installer la version officiel de Windows NT 3.1 ?**
+
 Seulement 22 disquettes !

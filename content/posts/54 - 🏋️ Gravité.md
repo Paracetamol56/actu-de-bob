@@ -30,6 +30,7 @@ draft: false
 ## Q&A
 
 **Comment la gravité est-elle liée au temps ?**
+
 Selon la théorie de la relativité générale formulée par Albert Einstein la présence de masse et d'énergie courbe l'espace-temps, ce qui crée ce que nous appelons la gravité.
 
 La courbure de l'espace-temps provoquée par un objet massif, comme une planète, affecte le déroulement du temps lui-même. Plus l'objet est massif, plus la courbure de l'espace-temps est importante, et plus cela influence le temps. En d'autres termes, la présence de gravité ralentit le temps.

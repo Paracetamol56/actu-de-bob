@@ -32,6 +32,7 @@ draft: false
 ## Q&A
 
 **D'où vient le nom axolot ?**
+
 Dans la mythologie aztèque, le dieu du vent Ehecatl sacrifiait tous les autres dieux pour faire bouger le soleil. Cependant, le dieu Xolotl ne voulait pas se sacrifier pour ce projet. Pour s'échapper, Xolotl se transforma en salamandre et s'enfuit à la nage. Dans certaines versions de la légende, il resta si longtemps dans le lac Xochimilco qu'il perdit la capacité de marcher sur terre et devint l'axolotl.
 (je crois que j'ai tout compris)
 

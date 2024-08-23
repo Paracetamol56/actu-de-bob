@@ -25,5 +25,6 @@ draft: false
 
 ## Q&A
 
-**Quand est la journée internationale de la saucisse ?**  
+**Quand est la journée internationale de la saucisse ?**
+
 le 21 octobre

@@ -32,7 +32,8 @@ Au lieu de cela, elles utilisent une enzyme digestive spéciale pour transformer
 
 ## Q&A
 
-**Est-ce qu'on mange vraiment 2 araignées par an quand on dort ?**  
+**Est-ce qu'on mange vraiment 2 araignées par an quand on dort ?**
+
 Non, car elles n'ont aucune raison d'aller dans votre bouche qui pue la mort. En plus de ça, elles captent les odeurs avec leurs pattes... Et elles en ont huit donc ne vous inquiétez pas qu'elles sont au courant.
 
 ## Les détails de Chocobo futé

@@ -25,7 +25,8 @@ draft: false
 
 ## Q&A
 
-**Pourquoi la civilisation grecque de l'antiquité n'a pas prospéré ?**  
+**Pourquoi la civilisation grecque de l'antiquité n'a pas prospéré ?**
+
 La civilisation grecque antique n'a pas connu un effondrement soudain, mais plutôt un déclin progressif influencé par plusieurs facteurs. Parmi ces facteurs figurent les guerres incessantes, notamment les guerres péloponnésiennes, qui ont épuisé les ressources et affaibli les cités grecques.
 
 En outre, l'expansion romaine a eu un impact significatif, aboutissant à la conquête de la Grèce par les Romains en 146 av. J.-C. Bien que les Grecs aient influencé la culture romaine, cette conquête a marqué la fin de leur indépendance politique et a entraîné une assimilation progressive à la culture romaine.

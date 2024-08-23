@@ -30,6 +30,7 @@ draft: false
 ## Q&A
 
 **Comment la Lune s'est-elle créée ?**
+
 L'hypothèse la plus acceptée et la plus probable sur l'origine de la Lune est celle de l'impact avec la Terre. Il y a environ 4,5 milliards d'années, un objet de la taille de Mars, appelé Theia, est entré en collision avec la Terre primitive. Cet impact violent a provoqué l'éjection de débris terrestre, qui se sont ensuite regroupés pour former la Lune. Cette théorie explique la composition similaire de la Terre et de la Lune, ainsi que le mouvement de rotation de la Lune autour de la Terre.
 
 ## Les détails de chocobo futé

@@ -29,7 +29,8 @@ draft: false
 
 ## Q&A
 
-**Comment utiliser sa carte graphique ?**  
+**Comment utiliser sa carte graphique ?**
+
 1. Allez sur ce site : https://geeks3d.com/furmark/
 2. Téléchargez Furmark
 3. Lancez Furmark

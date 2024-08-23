@@ -29,5 +29,6 @@ draft: false
 
 ## Q&A
 
-**Pourquoi il n'y a plus beaucoup de Q&A ?**  
+**Pourquoi il n'y a plus beaucoup de Q&A ?**
+
 Je sais pas.

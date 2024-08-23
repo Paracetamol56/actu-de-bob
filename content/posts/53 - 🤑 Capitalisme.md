@@ -23,7 +23,8 @@ draft: false
 
 ## Q&A
 
-**Pourquoi le capitalisme, c'est mal ?**  
+**Pourquoi le capitalisme, c'est mal ?**
+
 Le capitalisme favorise l'inégalité économique, car il permet l'accumulation excessive de richesses au détriment des plus pauvres. Il peut également encourager la recherche du profit à court terme au détriment de l'intérêt général à long terme (genre l'écologie ou les droits des travailleurs). Il peut encourager la consommation excessive et la culture de l'individualisme, érodant ainsi les valeurs communautaires et la solidarité.
 *Envoyé depuis mon iPhone*
 
